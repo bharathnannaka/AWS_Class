@@ -23,7 +23,7 @@ combines both public and private cloud.
 multicloud environments typically include a combination of two or more public clouds, two or more private clouds, 
 or some combination of both
 
-## Types of Cloud cumputing services:
+### Types of Cloud cumputing services:
 
 ### IAAS:
 
