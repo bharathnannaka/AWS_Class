@@ -17,10 +17,14 @@ internet gateway allows communication between your VPC and the internet.
 ### Network Address Translation (NAT) Gateway:
 nat gateway makes it easy to connect to the Internet from instances within a private subnet.
 
+### Route Table:
+A route table contains a set of rules, called routes, that determine where network traffic from your subnet or gateway is directed.
+
 ### AWS Security Group:
 An AWS security group acts as a virtual firewall for your EC2 instances to control incoming and outgoing traffic.
 
 ### network ACL (NACL):
 acts as a firewall for controlling traffic in and out of one or more subnets.
+
 
 
