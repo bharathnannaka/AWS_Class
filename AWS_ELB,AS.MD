@@ -19,5 +19,7 @@ Predictive scaling involves using machine learning algorithms to program the des
 The load balancer distributes incoming application traffic across multiple targets
 ### Types of Load Balancers:
 Application Load Balancer
+
 Network Load Balancer
+
 Gateway Load Balancer
