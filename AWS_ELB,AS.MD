@@ -1,7 +1,9 @@
 ### Types of Scaling:
-horizontal scaling 
+### horizontal scaling: 
+horizontal scaling involves adding more machines or nodes to a system.
 
-vertical scaling
+### vertical scaling:
+vertical scaling involves adding more power (CPU, RAM, storage, etc.) to an existing machine.
 
 ### Auto Scaling:
 Auto scaling is a feature that allows a system to automatically adjust its resources based on the current demand.
