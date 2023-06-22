@@ -1,3 +1,14 @@
+### Load Balancer:
+The load balancer distributes incoming application traffic across multiple targets
+### Types of Load Balancers:
+Application Load Balancer
+
+Network Load Balancer
+
+Gateway Load Balancer
+
+
+
 ### Types of Scaling:
 ### horizontal scaling: 
 horizontal scaling involves adding more machines or nodes to a system.
@@ -22,11 +33,4 @@ In dynamic scaling, the number of EC2 instances is changed automatically based o
 ### Predictive scaling:
 Predictive scaling involves using machine learning algorithms to program the desired number of instances. Future traffic can be predicted to provide the appropriate number of instances. This type of scaling is ideal when the traffic is predictable.
 
-### Load Balancer:
-The load balancer distributes incoming application traffic across multiple targets
-### Types of Load Balancers:
-Application Load Balancer
 
-Network Load Balancer
-
-Gateway Load Balancer
